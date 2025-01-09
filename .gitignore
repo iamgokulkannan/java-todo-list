@@ -1,0 +1,12 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temporary files from Code Runner
+tempCodeRunnerFile.java
+
+# Ignore compiled Java files
+*.class
+
+# Ignore OS or editor-specific files (optional)
+.DS_Store
+Thumbs.db
