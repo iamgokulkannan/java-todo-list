@@ -10,3 +10,7 @@ tempCodeRunnerFile.java
 # Ignore OS or editor-specific files (optional)
 .DS_Store
 Thumbs.db
+
+# Ignore any other unwanted files or directories
+logs/
+*.log
